@@ -20,10 +20,10 @@ headers = {
         'Cookie': '',
     }
 
-token="xoxc-5112221223653-aaa-5112252871845-d53f887502bdd5bb9d4a0c232ff34e37cb8bfa249690bbcfb5de90b57bfd9375"
+token=""
 
-Claude_userid="U0542RBDN4Q"
-fangjian_id="C0536GHFS2J"
+Claude_userid=""
+fangjian_id=""
 
 app = web.application(urls, globals())
 app.debug = False
